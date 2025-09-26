@@ -41,14 +41,23 @@ This extracts the contents of archive.7z into extracted_folder/.
 
 ## 📂 **Project Structure**
 NinjaZipPy/
+
 │── ninjazippy/
+
 │   │── __init__.py
+
 │   │── cli.py
+
 │   │── core.py
+
 │
+
 │── setup.py
+
 │── pyproject.toml
+
 │── README.md
+
 
 ---
 
