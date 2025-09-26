@@ -22,7 +22,7 @@ git clone https://github.com/<your-username>/NinjaZipPy.git
 cd NinjaZipPy
 pip install .
 
-🔧 Usage
+## 🔧 **Usage**
 1. Zip a folder
 ninjazippy zip myfolder archive.7z
 
@@ -35,7 +35,7 @@ ninjazippy unzip archive.7z extracted_folder
 
 This extracts the contents of archive.7z into extracted_folder/.
 
-📂 Project Structure
+## 📂 **Project Structure**
 NinjaZipPy/
 │── ninjazippy/
 │   │── __init__.py
@@ -46,12 +46,12 @@ NinjaZipPy/
 │── pyproject.toml
 │── README.md
 
-🛠️ Requirements
+## 🛠️ **Requirements**
 
 Python 3.8+
 
 py7zr
 
-📜 License
+## 📜 **License**
 
 MIT License
