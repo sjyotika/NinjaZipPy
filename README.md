@@ -21,7 +21,7 @@ Clone this repository and install locally:
 git clone https://github.com/<your-username>/NinjaZipPy.git
 cd NinjaZipPy
 pip install .
-
+```
 ---
 
 ## 🔧 **Usage**
